@@ -5,9 +5,9 @@
 ## 目次
 
 1. [概要](#概要)
-2. [Git Flow と GitHub Flow の違い](#Git Flow と GitHub Flow の違い)
-3. [GitHub Flow の ４つのルール](#GitHub Flow の ４つのルール)
-4. [GitHub Flow の 運用の流れ](#GitHub Flow の 運用の流れ)
+2. [Git Flow と GitHub Flow の違い](#git-flow-と-github-flow-の違い)
+3. [GitHub Flow の ４つのルール](#github-flow-の-４つのルール)
+4. [GitHub Flow の 運用の流れ](#github-flow-の-運用の流れ)
    <br><br><br>
 
 ## 概要
